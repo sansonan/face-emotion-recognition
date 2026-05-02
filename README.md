@@ -116,6 +116,9 @@ python faceDetectionImpl.py
 - Optimize performance for real-time usage
 
 ---
+## 📂 Dataset
+
+The dataset used in this project is available on Google Drive: https://drive.google.com/drive/folders/1bF7Q5ohFVUjhsBfNumPOU-qnnj8pSGb_?usp=sharing
 
 ## 👨‍💻 Author
 
